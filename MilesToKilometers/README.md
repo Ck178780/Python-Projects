@@ -6,8 +6,8 @@ Create a basic and simple GUI application to convert miles to kilometers. The ap
 
 a. Startup menu:
 
-[!images](images/start.png)
+![images](images/start.png)
 
 b. The user has entered a value for miles and is given the kilometers:
 
-[!images](images/converted.png)
+![images](images/converted.png)
